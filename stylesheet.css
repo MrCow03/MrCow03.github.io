@@ -59,3 +59,11 @@ nav a.active {
   background-color: lightgreen;
   color: #444;
 }
+
+.handsome-cow{
+  float: left;
+}
+
+.handsome-cow-info{
+  float: none;
+}
